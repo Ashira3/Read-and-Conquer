@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Bootstrap.unity
+    guid: b52bea357babc04468361fae481a9db1
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: 74ce1a5cf69d23247a603a3f479472d7
+  - enabled: 1
+    path: Assets/Scenes/MainHistory.unity
+    guid: 27d4ad9308486d24982d061c14d3d004
+  - enabled: 1
+    path: Assets/Scenes/DifficultiesSelection/Classic/ClassicDifficultySelection.unity
+    guid: 996088e3d68416340a5b01c77da186f3
+  - enabled: 1
+    path: Assets/Scenes/Results/BossRush/BossRushSurvival.unity
+    guid: c46757a921d8e3f438ef9b0f0675aa10
+  - enabled: 1
+    path: Assets/Scenes/DifficultiesSelection/TimeAttack/TADifficultySelection.unity
+    guid: 0003c89bc71acac479fcdd8a9bb6ecf2
+  - enabled: 1
+    path: Assets/Scenes/Results/Classic/EasyDiff/ClassicEasyResults.unity
+    guid: 01bbcd5490043ce48a12cad9485bf7ba
+  - enabled: 1
+    path: Assets/Scenes/Results/Classic/MediumDiff/ClassicMediumResults.unity
+    guid: b241dacb996edd744989584107f719bf
+  - enabled: 1
+    path: Assets/Scenes/Results/Classic/HardDiff/ClassicHardResults.unity
+    guid: 354342921c7f2d8448b94fab690e6460
+  - enabled: 1
+    path: Assets/Scenes/Results/TImeAttack/EasyDiff/TAEasyResults.unity
+    guid: cf3185829c64b6242b8e7e402dd50993
+  - enabled: 1
+    path: Assets/Scenes/Results/TImeAttack/MediumDiff/TAMediumResults.unity
+    guid: 1e2de4f391bdd454f87bdf616b877b73
+  - enabled: 1
+    path: Assets/Scenes/Results/TImeAttack/HardDiff/TAHardResults.unity
+    guid: 99e8a09ff72271c458063a2527680780
+  - enabled: 1
+    path: Assets/Scenes/Classic/ClassicTutorial.unity
+    guid: f50105fa326a1f34d8817081767e250d
+  - enabled: 1
+    path: Assets/Scenes/Classic/ClassicEasy.unity
+    guid: 9d6144fa2bb73df45adb146308a9786d
+  - enabled: 1
+    path: Assets/Scenes/Classic/ClassicMedium.unity
+    guid: ad6d716db188cfb4ead86a287c4c63bc
+  - enabled: 1
+    path: Assets/Scenes/Classic/ClassicHard.unity
+    guid: 2d79ec981e0604840a0d2e1a8486814e
+  - enabled: 1
+    path: Assets/Scenes/BossRush/BossRushTutorial.unity
+    guid: d9487ddc681e2b6468cf74f476a73d48
+  - enabled: 1
+    path: Assets/Scenes/BossRush/Stage1.unity
+    guid: 8bcbd88617c52544d9e8236d2456109b
+  - enabled: 1
+    path: Assets/Scenes/BossRush/Stage2.unity
+    guid: 4a4f25da0e701d0459dcc3839e5658a5
+  - enabled: 1
+    path: Assets/Scenes/BossRush/Stage3.unity
+    guid: 80e89b0d64c2f894bafdb839197b7470
+  - enabled: 1
+    path: Assets/Scenes/BossRush/Stage4.unity
+    guid: 79daff7c2ecb6ec4db05ffbcc7811d24
+  - enabled: 1
+    path: Assets/Scenes/BossRush/Stage5.unity
+    guid: 2eb8bc1b2007a704dae51703b2175e01
+  - enabled: 1
+    path: Assets/Scenes/TimeAttack/TimeAttackTutorial.unity
+    guid: 4503c4c2cf4aa6c46bf93a06dad52529
+  - enabled: 1
+    path: Assets/Scenes/TimeAttack/TimeAttackEasy.unity
+    guid: 47b31207bf4fd244fb20e468f6ba8732
+  - enabled: 1
+    path: Assets/Scenes/TimeAttack/TimeAttackMedium.unity
+    guid: cd13df1d5582886458e1ef4fc5366a97
+  - enabled: 1
+    path: Assets/Scenes/TimeAttack/TimeAttackHard.unity
+    guid: 86e777dab1c40014f9c8b4521e983a86
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: e82650a7be21a694f9b45d8c657b0982, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 3c83b20764daac04da2ef87ad016c146, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 67bb4b9620ff21d439cabe5ca59a2104, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 92a81f16224d08e44920481d45f58036, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

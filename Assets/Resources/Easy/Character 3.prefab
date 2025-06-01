@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1074139918755955057
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1003374160023115099, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -7422202805941874536, guid: 3dee86cecbc207940a23258266ec24ab, type: 3}
+    - target: {fileID: 2163340672373974156, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 748
+      objectReference: {fileID: 0}
+    - target: {fileID: 2209366313282813039, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_Name
+      value: SpeechBubbleText1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3212375402554453488, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_Name
+      value: Character Male
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945834444071301741, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -339.62
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945834444071301741, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1257.45
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945834444071301741, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.5674117
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945834444071301741, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945834444071301741, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945834444071301741, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945834444071301741, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945834444071301741, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945834444071301741, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945834444071301741, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6707159020388896194, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: sadText
+      value: wrong lods
+      objectReference: {fileID: 0}
+    - target: {fileID: 6707159020388896194, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: happyText
+      value: correct lods
+      objectReference: {fileID: 0}
+    - target: {fileID: 6707159020388896194, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: sadSprite
+      value: 
+      objectReference: {fileID: 8128138085211983117, guid: 4c1bd712dd992c445a1397e47c659285, type: 3}
+    - target: {fileID: 6707159020388896194, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: idleSprite
+      value: 
+      objectReference: {fileID: -7422202805941874536, guid: 3dee86cecbc207940a23258266ec24ab, type: 3}
+    - target: {fileID: 6707159020388896194, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: annoyedText
+      value: time lods
+      objectReference: {fileID: 0}
+    - target: {fileID: 6707159020388896194, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: happySprite
+      value: 
+      objectReference: {fileID: 8966499811672332263, guid: bd99f9932662c2e4aa9d03db9d6027a4, type: 3}
+    - target: {fileID: 6707159020388896194, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: annoyedSprite
+      value: 
+      objectReference: {fileID: 6677041883277105791, guid: 6146f8b9866fcd44ea61dd53d7ff5ad6, type: 3}
+    - target: {fileID: 6707159020388896194, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: speechBubbleObject
+      value: 
+      objectReference: {fileID: 7006391082354309136}
+    - target: {fileID: 6720098900018231323, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_Name
+      value: SpeechBubbleImg1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7048446405526827291, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_fontSize
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 7048446405526827291, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 8057976580576999777, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_Name
+      value: SpeechBubble1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: 2794844313702764695, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+--- !u!1 &7006391082354309136 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8057976580576999777, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+  m_PrefabInstance: {fileID: 1074139918755955057}
+  m_PrefabAsset: {fileID: 0}

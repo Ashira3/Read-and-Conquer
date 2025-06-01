@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3714031986269453941
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1003374160023115099, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -6595000901757026249, guid: 735676fa1b5fc7f4abb6a20039211d03, type: 3}
+    - target: {fileID: 2209366313282813039, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_Name
+      value: SpeechBubbleText1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3212375402554453488, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_Name
+      value: Hard2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945834444071301741, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -339.62
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945834444071301741, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1257.45
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945834444071301741, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.5674117
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945834444071301741, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945834444071301741, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945834444071301741, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945834444071301741, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945834444071301741, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945834444071301741, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945834444071301741, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6707159020388896194, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: sadText
+      value: wrong lods
+      objectReference: {fileID: 0}
+    - target: {fileID: 6707159020388896194, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: happyText
+      value: correct lods
+      objectReference: {fileID: 0}
+    - target: {fileID: 6707159020388896194, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: sadSprite
+      value: 
+      objectReference: {fileID: -4717403066785658514, guid: 76b4d50f25f3ad242ab8a7db8de9b2a9, type: 3}
+    - target: {fileID: 6707159020388896194, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: idleSprite
+      value: 
+      objectReference: {fileID: -6595000901757026249, guid: 735676fa1b5fc7f4abb6a20039211d03, type: 3}
+    - target: {fileID: 6707159020388896194, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: annoyedText
+      value: time lods
+      objectReference: {fileID: 0}
+    - target: {fileID: 6707159020388896194, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: happySprite
+      value: 
+      objectReference: {fileID: 5706985213223277809, guid: cf37c79735dfd8b41a10b785430e8a97, type: 3}
+    - target: {fileID: 6707159020388896194, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: annoyedSprite
+      value: 
+      objectReference: {fileID: 1259045114344850917, guid: acbaef2f5aba2264d84344f6482e538e, type: 3}
+    - target: {fileID: 6707159020388896194, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: speechBubbleObject
+      value: 
+      objectReference: {fileID: 6654432835131279124}
+    - target: {fileID: 6720098900018231323, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_Name
+      value: SpeechBubbleImg1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8057976580576999777, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_Name
+      value: SpeechBubble1
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 6707159020388896194, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 3212375402554453488, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 9037585138990106789}
+  m_SourcePrefab: {fileID: 100100000, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+--- !u!1 &2242302237754954629 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3212375402554453488, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+  m_PrefabInstance: {fileID: 3714031986269453941}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &9037585138990106789
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2242302237754954629}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4f954ad86d4b354da3fcc438047430c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characterRenderer: {fileID: 4496377014591990574}
+  idleSprite: {fileID: -6595000901757026249, guid: 735676fa1b5fc7f4abb6a20039211d03, type: 3}
+  happySprite: {fileID: 5706985213223277809, guid: cf37c79735dfd8b41a10b785430e8a97, type: 3}
+  sadSprite: {fileID: -4717403066785658514, guid: 76b4d50f25f3ad242ab8a7db8de9b2a9, type: 3}
+  annoyedSprite: {fileID: 1259045114344850917, guid: acbaef2f5aba2264d84344f6482e538e, type: 3}
+  speechBubbleObject: {fileID: 6654432835131279124}
+  happyText: That's right! Great job!
+  sadText: Oops! Try to remember this one.
+  annoyedText: Time's up! You're too slow!
+  spriteDisplayDuration: 2
+--- !u!212 &4496377014591990574 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 1003374160023115099, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+  m_PrefabInstance: {fileID: 3714031986269453941}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6654432835131279124 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8057976580576999777, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+  m_PrefabInstance: {fileID: 3714031986269453941}
+  m_PrefabAsset: {fileID: 0}

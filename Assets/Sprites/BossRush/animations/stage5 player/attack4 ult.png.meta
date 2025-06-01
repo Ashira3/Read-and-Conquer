@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: a69273b7bf0cb8e42b53b1302b9d80d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5304542746199820179
+    second: attack4 ult_0
+  - first:
+      213: 9101977336711322425
+    second: attack4 ult_1
+  - first:
+      213: -106959633987016308
+    second: attack4 ult_2
+  - first:
+      213: -6525522069579825735
+    second: attack4 ult_3
+  - first:
+      213: 5133039899987467721
+    second: attack4 ult_4
+  - first:
+      213: 2426329033887420354
+    second: attack4 ult_5
+  - first:
+      213: -5283451697256831092
+    second: attack4 ult_6
+  - first:
+      213: 5400396692351300426
+    second: attack4 ult_7
+  - first:
+      213: 2982630885097500148
+    second: attack4 ult_8
+  - first:
+      213: 8502818399535493812
+    second: attack4 ult_9
+  - first:
+      213: -4628321226572510619
+    second: attack4 ult_10
+  - first:
+      213: -4991505289302231590
+    second: attack4 ult_11
+  - first:
+      213: -4977177765351237081
+    second: attack4 ult_12
+  - first:
+      213: 8295615174123397522
+    second: attack4 ult_13
+  - first:
+      213: -6164573827455485020
+    second: attack4 ult_14
+  - first:
+      213: -3529340512930562528
+    second: attack4 ult_15
+  - first:
+      213: 3681548754914839039
+    second: attack4 ult_16
+  - first:
+      213: 5967747469555282834
+    second: attack4 ult_17
+  - first:
+      213: 7543287881288650611
+    second: attack4 ult_18
+  - first:
+      213: -2647393560195963292
+    second: attack4 ult_19
+  - first:
+      213: -543073269970286119
+    second: attack4 ult_20
+  - first:
+      213: 1557277440097785039
+    second: attack4 ult_21
+  - first:
+      213: -4448616068633049369
+    second: attack4 ult_22
+  - first:
+      213: 539750543129584326
+    second: attack4 ult_23
+  - first:
+      213: -2931035471624504660
+    second: attack4 ult_24
+  - first:
+      213: -8342617100932378392
+    second: attack4 ult_25
+  - first:
+      213: -6234644870336999265
+    second: attack4 ult_26
+  - first:
+      213: -274105929743555807
+    second: attack4 ult_27
+  - first:
+      213: 2904406862558892342
+    second: attack4 ult_28
+  - first:
+      213: -6263790933394813069
+    second: attack4 ult_29
+  - first:
+      213: 7843344564509253106
+    second: attack4 ult_30
+  - first:
+      213: -7173406605848499422
+    second: attack4 ult_31
+  - first:
+      213: -7733688191974710795
+    second: attack4 ult_32
+  - first:
+      213: -5950634344338784685
+    second: attack4 ult_33
+  - first:
+      213: 6447740077287835464
+    second: attack4 ult_34
+  - first:
+      213: -1621777752032908510
+    second: attack4 ult_35
+  - first:
+      213: -3684295896939033021
+    second: attack4 ult_36
+  - first:
+      213: 8750488006884478192
+    second: attack4 ult_37
+  - first:
+      213: -5637494642551045525
+    second: attack4 ult_38
+  - first:
+      213: -4329095993726287910
+    second: attack4 ult_39
+  - first:
+      213: -6037348919876929704
+    second: attack4 ult_40
+  - first:
+      213: -6785396409109199968
+    second: attack4 ult_41
+  - first:
+      213: -1227740007635317807
+    second: attack4 ult_42
+  - first:
+      213: -6803946733932599254
+    second: attack4 ult_43
+  - first:
+      213: -5506792096559954735
+    second: attack4 ult_44
+  - first:
+      213: -7327911756104737982
+    second: attack4 ult_45
+  - first:
+      213: -5102155222591330404
+    second: attack4 ult_46
+  - first:
+      213: 4681819597420096785
+    second: attack4 ult_47
+  - first:
+      213: 9169965977607894228
+    second: attack4 ult_48
+  - first:
+      213: -8245534382733571327
+    second: attack4 ult_49
+  - first:
+      213: -4232114015090767133
+    second: attack4 ult_50
+  - first:
+      213: 8138172178857717817
+    second: attack4 ult_51
+  - first:
+      213: 9056792936134008242
+    second: attack4 ult_52
+  - first:
+      213: -1840832954474139351
+    second: attack4 ult_53
+  - first:
+      213: 3865440163227332981
+    second: attack4 ult_54
+  - first:
+      213: -4001043018597776498
+    second: attack4 ult_55
+  - first:
+      213: 5172396056278564941
+    second: attack4 ult_56
+  - first:
+      213: -5438683287489359212
+    second: attack4 ult_57
+  - first:
+      213: -3451886050001166017
+    second: attack4 ult_58
+  - first:
+      213: -1060606583801142874
+    second: attack4 ult_59
+  - first:
+      213: -8320894707433738550
+    second: attack4 ult_60
+  - first:
+      213: 761618115203134454
+    second: attack4 ult_61
+  - first:
+      213: 2647608452924189021
+    second: attack4 ult_62
+  - first:
+      213: 3111028879890343938
+    second: attack4 ult_63
+  - first:
+      213: 8901213750827469076
+    second: attack4 ult_64
+  - first:
+      213: 6332412633040653204
+    second: attack4 ult_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: attack4 ult_17
+      rect:
+        serializedVersion: 2
+        x: 4357
+        y: 0
+        width: 112
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3978d13e5858d9940800000000000000
+      internalID: 5304542746199820179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack4 ult_12
+      rect:
+        serializedVersion: 2
+        x: 3171
+        y: 0
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29127fe7c02ff1370800000000000000
+      internalID: 8295615174123397522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack4 ult_14
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 0
+        width: 121
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab78d6e3c8037aa0800000000000000
+      internalID: -6164573827455485020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack4 ult_3
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 0
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466ecdf5591924bd0800000000000000
+      internalID: -2647393560195963292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack4 ult_5
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 0
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d949600dbd9678f0800000000000000
+      internalID: -543073269970286119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack4 ult_6
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 0
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc412c9b49f8c9510800000000000000
+      internalID: 1557277440097785039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack4 ult_7
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 0
+        width: 87
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6480f51475342c0800000000000000
+      internalID: -4448616068633049369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack4 ult_8
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 0
+        width: 92
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e093d1a2f1193c80800000000000000
+      internalID: -8342617100932378392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack4 ult_15
+      rect:
+        serializedVersion: 2
+        x: 3771
+        y: 0
+        width: 122
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ba5f4c2b0f27c90800000000000000
+      internalID: -7173406605848499422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack4 ult_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 0
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc4aadea7aff6970800000000000000
+      internalID: 8750488006884478192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack4 ult_4
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 0
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62c397cd7893c1b0800000000000000
+      internalID: -5637494642551045525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack4 ult_9
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 0
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857b5a50527073ca0800000000000000
+      internalID: -6037348919876929704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack4 ult_10
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 0
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11defa65e1a29f040800000000000000
+      internalID: 4681819597420096785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack4 ult_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9217cb95e2c0476e0800000000000000
+      internalID: -1840832954474139351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack4 ult_11
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 0
+        width: 82
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e834c61b2907978c0800000000000000
+      internalID: -4001043018597776498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack4 ult_18
+      rect:
+        serializedVersion: 2
+        x: 4638
+        y: 0
+        width: 116
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f37f2bf3afc19a00800000000000000
+      internalID: 761618115203134454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack4 ult_19
+      rect:
+        serializedVersion: 2
+        x: 4893
+        y: 0
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d592edc3cd13eb420800000000000000
+      internalID: 2647608452924189021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack4 ult_16
+      rect:
+        serializedVersion: 2
+        x: 4061
+        y: 0
+        width: 119
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20868d788489c2b20800000000000000
+      internalID: 3111028879890343938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 66dfa85ad76614648b2e84ca6894d314
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      attack4 ult_1: -1840832954474139351
+      attack4 ult_10: 4681819597420096785
+      attack4 ult_11: -4001043018597776498
+      attack4 ult_12: 8295615174123397522
+      attack4 ult_14: -6164573827455485020
+      attack4 ult_15: -7173406605848499422
+      attack4 ult_16: 3111028879890343938
+      attack4 ult_17: 5304542746199820179
+      attack4 ult_18: 761618115203134454
+      attack4 ult_19: 2647608452924189021
+      attack4 ult_2: 8750488006884478192
+      attack4 ult_23: 539750543129584326
+      attack4 ult_24: -2931035471624504660
+      attack4 ult_26: -6234644870336999265
+      attack4 ult_27: -274105929743555807
+      attack4 ult_28: 2904406862558892342
+      attack4 ult_29: -6263790933394813069
+      attack4 ult_3: -2647393560195963292
+      attack4 ult_30: 7843344564509253106
+      attack4 ult_32: -7733688191974710795
+      attack4 ult_33: -5950634344338784685
+      attack4 ult_34: 6447740077287835464
+      attack4 ult_35: -1621777752032908510
+      attack4 ult_36: -3684295896939033021
+      attack4 ult_39: -4329095993726287910
+      attack4 ult_4: -5637494642551045525
+      attack4 ult_41: -6785396409109199968
+      attack4 ult_42: -1227740007635317807
+      attack4 ult_43: -6803946733932599254
+      attack4 ult_44: -5506792096559954735
+      attack4 ult_45: -7327911756104737982
+      attack4 ult_46: -5102155222591330404
+      attack4 ult_48: 9169965977607894228
+      attack4 ult_49: -8245534382733571327
+      attack4 ult_5: -543073269970286119
+      attack4 ult_50: -4232114015090767133
+      attack4 ult_51: 8138172178857717817
+      attack4 ult_52: 9056792936134008242
+      attack4 ult_54: 3865440163227332981
+      attack4 ult_56: 5172396056278564941
+      attack4 ult_57: -5438683287489359212
+      attack4 ult_58: -3451886050001166017
+      attack4 ult_59: -1060606583801142874
+      attack4 ult_6: 1557277440097785039
+      attack4 ult_60: -8320894707433738550
+      attack4 ult_64: 8901213750827469076
+      attack4 ult_65: 6332412633040653204
+      attack4 ult_7: -4448616068633049369
+      attack4 ult_8: -8342617100932378392
+      attack4 ult_9: -6037348919876929704
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

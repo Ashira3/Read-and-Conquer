@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1074139918755955057
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 531767148192643417, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 531767148192643417, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_ReferenceResolution.x
+      value: 1920
+      objectReference: {fileID: 0}
+    - target: {fileID: 531767148192643417, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_ReferenceResolution.y
+      value: 1080
+      objectReference: {fileID: 0}
+    - target: {fileID: 1003374160023115099, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -782004502640408023, guid: 744c985488238c74ba6a124b13f9478e, type: 3}
+    - target: {fileID: 2163340672373974156, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 739.004
+      objectReference: {fileID: 0}
+    - target: {fileID: 2163340672373974156, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 346.552
+      objectReference: {fileID: 0}
+    - target: {fileID: 2163340672373974156, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -263.01724
+      objectReference: {fileID: 0}
+    - target: {fileID: 2163340672373974156, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 962.5218
+      objectReference: {fileID: 0}
+    - target: {fileID: 2209366313282813039, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_Name
+      value: SpeechBubbleText1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3212375402554453488, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_Name
+      value: Male 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945834444071301741, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -339.62
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945834444071301741, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1257.45
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945834444071301741, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.5674117
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945834444071301741, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945834444071301741, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945834444071301741, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945834444071301741, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945834444071301741, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945834444071301741, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4945834444071301741, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6707159020388896194, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: sadText
+      value: Wrong order..
+      objectReference: {fileID: 0}
+    - target: {fileID: 6707159020388896194, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: happyText
+      value: Thank you!
+      objectReference: {fileID: 0}
+    - target: {fileID: 6707159020388896194, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: sadSprite
+      value: 
+      objectReference: {fileID: 884151650884242137, guid: ee980a0356627e647b168a2b4da52151, type: 3}
+    - target: {fileID: 6707159020388896194, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: idleSprite
+      value: 
+      objectReference: {fileID: -782004502640408023, guid: 744c985488238c74ba6a124b13f9478e, type: 3}
+    - target: {fileID: 6707159020388896194, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: annoyedText
+      value: It takes too long!
+      objectReference: {fileID: 0}
+    - target: {fileID: 6707159020388896194, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: happySprite
+      value: 
+      objectReference: {fileID: -1841166644512758677, guid: f5cf4fe4aeb78b740af62335c574731a, type: 3}
+    - target: {fileID: 6707159020388896194, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: annoyedSprite
+      value: 
+      objectReference: {fileID: 5792612182728176057, guid: 1fa4e5df0dad8564ab3c995b0ee3190f, type: 3}
+    - target: {fileID: 6707159020388896194, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: speechBubbleObject
+      value: 
+      objectReference: {fileID: 7006391082354309136}
+    - target: {fileID: 6720098900018231323, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_Name
+      value: SpeechBubbleImg1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7048446405526827291, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_fontSize
+      value: 70
+      objectReference: {fileID: 0}
+    - target: {fileID: 7048446405526827291, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 70
+      objectReference: {fileID: 0}
+    - target: {fileID: 8057976580576999777, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_Name
+      value: SpeechBubble1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8453533056967785308, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 886.615
+      objectReference: {fileID: 0}
+    - target: {fileID: 8453533056967785308, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 1059.662
+      objectReference: {fileID: 0}
+    - target: {fileID: 8453533056967785308, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -336.824
+      objectReference: {fileID: 0}
+    - target: {fileID: 8453533056967785308, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 962.267
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: 2794844313702764695, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 3212375402554453488, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6423262064881394406}
+    - targetCorrespondingSourceObject: {fileID: 3212375402554453488, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8828428108299824330}
+  m_SourcePrefab: {fileID: 100100000, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+--- !u!212 &217492106552267818 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 1003374160023115099, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+  m_PrefabInstance: {fileID: 1074139918755955057}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2485066668899953793 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3212375402554453488, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+  m_PrefabInstance: {fileID: 1074139918755955057}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &6423262064881394406
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2485066668899953793}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64283b45647fab848988bc41c3e5cbe6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characterRenderer: {fileID: 217492106552267818}
+  idleSprite: {fileID: -782004502640408023, guid: 744c985488238c74ba6a124b13f9478e, type: 3}
+  happySprite: {fileID: -1841166644512758677, guid: f5cf4fe4aeb78b740af62335c574731a, type: 3}
+  sadSprite: {fileID: 884151650884242137, guid: ee980a0356627e647b168a2b4da52151, type: 3}
+  annoyedSprite: {fileID: 5792612182728176057, guid: 1fa4e5df0dad8564ab3c995b0ee3190f, type: 3}
+  speechBubbleObject: {fileID: 7006391082354309136}
+  happyText: Thank you!
+  sadText: Wrong order..
+  annoyedText: It takes too long!
+  spriteDisplayDuration: 2
+--- !u!114 &8828428108299824330
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2485066668899953793}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4f954ad86d4b354da3fcc438047430c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characterRenderer: {fileID: 217492106552267818}
+  idleSprite: {fileID: -782004502640408023, guid: 744c985488238c74ba6a124b13f9478e, type: 3}
+  happySprite: {fileID: -1841166644512758677, guid: f5cf4fe4aeb78b740af62335c574731a, type: 3}
+  sadSprite: {fileID: 884151650884242137, guid: ee980a0356627e647b168a2b4da52151, type: 3}
+  annoyedSprite: {fileID: 5792612182728176057, guid: 1fa4e5df0dad8564ab3c995b0ee3190f, type: 3}
+  speechBubbleObject: {fileID: 7006391082354309136}
+  happyText: Thank you!
+  sadText: Wrong order..
+  annoyedText: It takes too long!
+  spriteDisplayDuration: 2
+--- !u!1 &7006391082354309136 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8057976580576999777, guid: bd4f97f8b342e9a4097d80b12b3ef6f4, type: 3}
+  m_PrefabInstance: {fileID: 1074139918755955057}
+  m_PrefabAsset: {fileID: 0}
