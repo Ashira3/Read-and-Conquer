@@ -1,2 +1,2 @@
-# NewMain
+# ReadandConquer
 Unity Game to enhance reading comprehension
